@@ -1,8 +1,5 @@
 # rag-multiformat-chatbot
 A Retrieval-Augmented Generation (RAG) chatbot that supports multiple document formats (PDF, text, etc.) for intelligent question-answering using vector search and LLMs.
-# RAG Multiformat Chatbot
-
-A Retrieval-Augmented Generation (RAG) chatbot that allows users to query and chat with multiple document formats (PDF, text, etc.) using vector search and Large Language Models (LLMs).
 
 ---
 
